@@ -1,0 +1,11 @@
+*
+!.gitignore
+!README.md
+!RELEASE.md
+!LICENSE
+!SHA256SUMS.txt
+!OzzzREIWorldGuide-fabric-1.20.4-1.2.1.jar
+!screenshots/
+screenshots/*
+!screenshots/*.png
+
